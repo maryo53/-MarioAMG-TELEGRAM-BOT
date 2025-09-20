@@ -1,0 +1,14 @@
+# Ignoră fișierul cu variabile de mediu (token, chei, etc)
+.env
+
+# Ignoră foldere cache Python
+__pycache__/
+*.py[cod]
+
+# Ignoră loguri sau fișiere temporare
+*.log
+*.tmp
+
+# Ignoră fișierele de la editori
+.vscode/
+.idea/
